@@ -17,7 +17,7 @@
 
 
 ### 🧙‍♂️: About Me :
-I am a Kotlin Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :telescope: I’m working as a Software Engineer and contributing to mobile development for building android applications.
 
 - :seedling: Exploring Technical Content Writing.
