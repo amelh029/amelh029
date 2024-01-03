@@ -11,7 +11,7 @@
     </p>
   </div>
   <div id="header" align="center">
-    <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-Lmy23L3RkJ0sEWokRN" width="100"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JmNW1rZ3BwMzg0dzQ4N2o4ZHF5MmEzNzFvMjVhMzdheXFhZ3hraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.gif" width="100"/>
   </div>
 </div>
 
