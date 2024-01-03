@@ -10,8 +10,8 @@
       Anton is watching you!)
     </p>
   </div>
-  <div align="center">
-    <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-Lmy23L3RkJ0sEWokRN" width="100">
+  <div id="header" align="center">
+    <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-Lmy23L3RkJ0sEWokRN" width="100"/>
   </div>
 </div>
 
