@@ -6,7 +6,7 @@
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/anton-melkher-a493aa2a6/">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Telegram Badge"/>
     </a>
   </div>
  
