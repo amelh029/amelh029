@@ -33,7 +33,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: +375292248485
+//- :mailbox:How to reach me: +375292248485
 
 
 ---
